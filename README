@@ -1,0 +1,9 @@
+This is an application written in php and jquery that allows a person to authenticate multiple twitter identities into a single profile, which then allows them to perform a variety of actions such as scheduling tweets, auto responding to direct messages, and other tasks.
+
+The purpose of this is to help people more effectively run marketing campaigns by allowing them to automate numerous social media behaviors.
+
+This works on linux and utilizes cron to run scheduled jobs at periodic times.
+
+You'd need to set up linux cron jobs on the different files named _events.  So daily_events.php should run once a day, hourly_events.php run every hour, minute_events.php run ever minute etc.
+
+This application uses jquery as the underlying framework for a majority of the javascript.
