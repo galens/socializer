@@ -1,4 +1,4 @@
-This is an application written in php and jquery that allows a person to authenticate multiple twitter identities into a single profile, which then allows them to perform a variety of actions such as scheduling tweets, auto responding to direct messages, and other tasks.
+This is an application written in php and javascript that allows a person to authenticate multiple twitter identities into a single profile, which then allows them to perform a variety of actions such as scheduling tweets, auto responding to direct messages, and other tasks.
 
 The purpose of this is to help people more effectively run marketing campaigns by allowing them to automate numerous social media behaviors.
 
